@@ -8,7 +8,7 @@ export default () => {
       </Head>
       <main>
         <h1 className="title">
-          Rect Next Typescript
+          Rect Next Typescript Base
         </h1>
       </main>
     </div>
